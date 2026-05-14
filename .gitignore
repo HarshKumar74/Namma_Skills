@@ -1,0 +1,13 @@
+# IDE settings
+.idea/
+*.iml
+
+# Local configuration (THIS HIDES YOUR SDK PATHS AND API KEYS)
+local.properties
+
+# Build output
+build/
+.gradle/
+
+# Log files
+*.log
